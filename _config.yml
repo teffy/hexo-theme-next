@@ -234,9 +234,9 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+reward_comment: 互联网讨饭新姿势（*>.<*）
+wechatpay: http://p1cycpoti.bkt.clouddn.com/blog/imgs/wx_qrcode.png%3Fv=1
+alipay: http://p1cycpoti.bkt.clouddn.com/blog/imgs/alipay_qrcode.png%3Fv=1
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts
@@ -269,7 +269,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
@@ -387,7 +387,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMjY1NS85MjE2
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -417,8 +417,8 @@ gitment:
 # This plugin is more useful in China, make sure you known how to use it.
 # And you can find the use guide at official webiste: http://www.jiathis.com/.
 # Warning: JiaThis does not support https.
-#jiathis:
-  ##uid: Get this uid from http://www.jiathis.com/
+jiathis:
+  uid: 2152417
 #add_this_id:
 
 # Share
@@ -557,7 +557,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+# tencent_analytics: 64841915
 
 # Tencent MTA ID
 # tencent_mta:
@@ -596,7 +596,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
