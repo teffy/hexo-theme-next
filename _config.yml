@@ -241,7 +241,7 @@ alipay: http://p1cycpoti.bkt.clouddn.com/blog/imgs/alipay_qrcode.png%3Fv=1
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -370,7 +370,7 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: true
+  enable: false
   appid: T8VBifNWOejyUhs1GHTrIj1N-gzGzoHsz
   appkey: Qw7ACOQSnpakw22n5iEpLWJC
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
