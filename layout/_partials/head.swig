@@ -7,6 +7,10 @@
   <meta name="baidu-site-verification" content="n4PdazzNlt" />
 {% endif %}
 
+{% if theme.google_site_verification %}
+  <meta name="google-site-verification" content="dNSiKiwnoNmbsoNstflEIIse4UBDta0GU8emHLPdMyM" />
+{% endif %}
+
 <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
 <link href="//cdn.bootcss.com/pace/1.0.2/themes/pink/pace-theme-flash.css" rel="stylesheet">
 <style>
